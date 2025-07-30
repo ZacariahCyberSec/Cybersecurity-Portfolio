@@ -1,0 +1,8 @@
+👤 Failed login attempts by username:
+
+for: 3
+user: 3
+
+🚨 Possible brute force IPs (3+ failures):
+
+192.168.1.5: 5 failed attempts

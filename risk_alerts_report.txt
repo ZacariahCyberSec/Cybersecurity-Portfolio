@@ -1,0 +1,7 @@
+👤 Failed login attempts by username:
+
+for: 3
+user: 7
+
+🚨 Possible brute force IPs (3+ failures):
+

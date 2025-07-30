@@ -1,0 +1,4 @@
+👤 Failed login attempts by username:
+
+root: 2
+guest: 1
